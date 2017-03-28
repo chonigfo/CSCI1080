@@ -1,0 +1,80 @@
+<html>
+
+<head>
+
+<title> Homework4</title>
+<link rel="stylesheet" href="hw4.css" type="text/css"/>
+</head>
+<body>
+
+<table style="width: 100%"> 
+
+<tr id="firstRow" style="width: 100%" >
+
+<td>
+
+
+<h1> Catherine's Jewelery </h1>
+</tr>
+</td>
+<tr>
+<td>
+<br>
+<h1> Topic </h1>
+<p>
+I would like to build an e-commerce website  called "Catherine's Jewelry" that will sell the jewelry I make. 
+My little sister and I create jewelry as a hobby, and we have recently decided that we are going to try to sell it. As far as the message I'd like to convey on my site, I am hoping to use the angle of the jewelry being homemade, and therefore unique, as my main selling point. Because I think I'll get my start by handing out cards while at craft fairs, I also plan to emphasize the fact that I am from Saint Louis. I will have several pages that display the various piece of jewelry I make, and another where a buyer can order the pieces they want. 
+</p>
+
+<h1> Content and Scope </h1>
+<p>
+At the very least, my site will include 4 pages of text and pictures. The pictures displayed will be of the pieces of jewelry that I wish to try to sell, they will consist of necklaces, bracelets, and earrings. In addition to pictures of the jewelry, I may also include a picture of myself as a "meet the creator" type page. On the home page, the text will be a brief description of the product categories. On the catelog page, the text would consist of a brief description of the piece of jewelry in the picture. The Shopping Cart page would have text explaining how I've partnered with paypall. And finally, if I decide to create a "meet the creator" page, there would be a brief bio on myself.
+<br>
+<br>
+My website will be a retail service selling homemade jewelry. My website will not serve a community beyond the one at my house. 
+<br>
+<br>
+I'm targeting people who enjoy unique jewelry, but don't want to pay designer prices. This fall, my little sister and I will be selling our jewelry at the YMCA craft fair, and we are considering creating cards with our website url on it and passing them out to anyone who buys from us. 
+
+ <br>
+There are hundreds of jewelry sites out there, many are professional, but there are also several sites that facilitate homemade jewelry, such as sites like Etsy. 
+</p> 
+
+<h1> Design </h1> 
+<p>
+I found Lecture 15 (CSS Templates and Project overview) and Lecture 16 (Intro to Reponsive Layouts) especially helpful. I enjoyed Lecture 15 first for the information about templates and where to find them. Before this class, I had not heard of free css templates, and I think having a template will be beyond helpful for style and alignment. 
+<br>
+<br>
+I am most excited about learning how to use the media query in my style sheet. I also had not heard of this, and I'm looking forward to learning how to make my website at least vaguely responsive. I never knew how websites implemented responsive properties, and I have always been curious. Additionally, I've also been curious about Twitter's bootstrap and the 12 column layout and I'm looking forward to discovering how to implement it. 
+
+</p>
+
+<h1> Template </h1>
+<p>
+I am definitely going to be using a template, but I'm not exactly sure which one yet. I've drawn out several designs, so I need to finialize which one I'm choosing, and that will determine which template I use. Whichever template I do decide to go with, though, I 
+
+</p>
+<br>
+
+
+</tr>
+</td>
+<tr id="lastRow" style="width: 100%">
+<td>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</tr>
+</td>
+</table>
+
+
+</body>
+</html>
